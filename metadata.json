@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven Retention & Wellbeing Analytics",
+  "description": "Enterprise AI workforce intelligence platform for proactive employee retention, burnout detection, SHAP explainability, and actionable interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
